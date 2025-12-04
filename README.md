@@ -1,13 +1,13 @@
 
 # Hola, soy Angel Bravo 👋
 
-### Estudiante de Ingeniería Civil en Computación 💻 | Entusiasta de la Tecnología 🚀
+### Estudiante de Ingeniería Civil en Computación 💻
 
 Soy un estudiante apasionado por el desarrollo de software y las telecomunicaciones de la **Universidad de Talca** 🎓. Me caracterizo por ser una persona resiliente y proactiva, siempre buscando adquirir nuevas habilidades para aportar soluciones innovadoras.
 
 🔭 **Actualmente estoy trabajando en:**
 - Profundizar mis conocimientos en **Ingeniería de Software**.
-- Proyectos académicos utilizando **Laravel, Vue y bases de datos NoSQL**.
+- Proyectos académicos utilizando **Laravel, Vue y bases de datos SQL y NoSQL**.
 
 🌱 **Sobre mí:**
 - 💡 Me motiva el aprendizaje continuo y la superación personal.
@@ -15,7 +15,7 @@ Soy un estudiante apasionado por el desarrollo de software y las telecomunicacio
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Técnico
 
 Estas son algunas de las tecnologías y herramientas con las que he trabajado:
 
@@ -36,7 +36,7 @@ Estas son algunas de las tecnologías y herramientas con las que he trabajado:
 **Bases de Datos**
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![NeonDB]
+![Neon](https://img.shields.io/badge/Neon-3DFFFF?style=for-the-badge&logo=postgresql&logoColor=black)
 **Herramientas:**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
