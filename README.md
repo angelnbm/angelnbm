@@ -7,7 +7,7 @@ Soy un estudiante apasionado por el desarrollo de software y las telecomunicacio
 
 🔭 **Actualmente estoy trabajando en:**
 - Profundizar mis conocimientos en **Ingeniería de Software**.
-- Proyectos académicos utilizando **Laravel, Vue y bases de datos SQL y NoSQL**.
+- Proyectos académicos utilizando **Vue, React y bases de datos SQL y NoSQL**.
 
 🌱 **Sobre mí:**
 - 💡 Me motiva el aprendizaje continuo y la superación personal.
