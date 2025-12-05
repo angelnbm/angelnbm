@@ -3,7 +3,7 @@
 
 ### Estudiante de Ingeniería Civil en Computación 💻
 
-Soy un estudiante apasionado por el desarrollo de software y las telecomunicaciones de la **Universidad de Talca** 🎓. Me caracterizo por ser una persona resiliente y proactiva, siempre buscando adquirir nuevas habilidades para aportar soluciones innovadoras.
+Soy un estudiante apasionado por el desarrollo de software y las telecomunicaciones de la **Universidad de Talca**. Me caracterizo por ser una persona resiliente y proactiva, siempre buscando adquirir nuevas habilidades para aportar soluciones innovadoras.
 
 🔭 **Actualmente estoy trabajando en:**
 - Profundizar mis conocimientos en **Ingeniería de Software**.
