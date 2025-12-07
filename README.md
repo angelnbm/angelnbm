@@ -1,4 +1,3 @@
-
 # Hola, soy Angel Bravo 👋
 
 ### Estudiante de Ingeniería Civil en Computación 💻
@@ -37,9 +36,10 @@ Estas son algunas de las tecnologías y herramientas con las que he trabajado:
 **Bases de Datos**
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-3DFFFF?style=for-the-badge&logo=postgresql&logoColor=black)
+![Neon](https://img.shields.io/badge/Neon-00FFA3?style=for-the-badge&logo=neon&logoColor=black)
 
 **Herramientas:**
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
