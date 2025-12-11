@@ -1,4 +1,4 @@
-# Hola, soy Angel Bravo 👋
+# Hola, soy Angel Bravo
 
 ### Estudiante de Ingeniería Civil en Computación 💻
 
