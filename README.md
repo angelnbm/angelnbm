@@ -65,3 +65,12 @@ Aquí algunos de los proyectos académicos en los que he participado como Progra
 - 📧 **Email:** [nicobravom123@gmail.com](mailto:nicobravom123@gmail.com)
 
 ---
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelnbm&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=angelnbm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+</div>
