@@ -12,6 +12,13 @@ Soy un estudiante apasionado por el desarrollo de software y las telecomunicacio
 - 💡 Me motiva el aprendizaje continuo y la superación personal.
 - 🚒 **Dato curioso:** He sido **Bombero por 5 años** (incluyendo 2 años como Secretario de compañía), lo que me ha enseñado el valor del trabajo en equipo y la resolución de problemas bajo presión.
 
+🦾**Fortalezas**
+- Resiliencia
+- Adaptante
+- Elocuente
+- Resolución de problemas
+- Trabajo en equipo
+- Creatividad e innovación
 ---
 
 ## 🛠️ Stack Técnico
