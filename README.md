@@ -72,7 +72,7 @@ Aquí algunos de los proyectos académicos en los que he participado como Progra
 - 📧 **Email:** [nicobravom123@gmail.com](mailto:nicobravom123@gmail.com)
 
 ---
-## 📊 GitHub Stats
+## 📊 Estadísticas de GitHub
 
 <div align="center">
 
