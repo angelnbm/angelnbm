@@ -65,4 +65,4 @@ Aquí algunos de los proyectos académicos en los que he participado como Progra
 </div>
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=angelnbm&theme=dark&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Racha de GitHub](https://streak-stats.demolab.com?user=angelnbm&theme=dark&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
