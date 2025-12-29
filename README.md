@@ -16,27 +16,20 @@ Soy un estudiante apasionado por el desarrollo de software y las telecomunicacio
 
 Estas son algunas de las tecnologías y herramientas con las que he trabajado:
 
-**Lenguajes:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frontend & Frameworks:**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-**Bases de Datos**
 ![PostgreSQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=postgresql&logoColor=black)
-
-**Herramientas:**
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -61,10 +54,10 @@ Aquí algunos de los proyectos académicos en los que he participado como Progra
 
 - 💼 **LinkedIn:** [Angel Bravo Muñoz](https://www.linkedin.com/in/angel-bravo-muñoz-066449325/)
 - 📧 **Email:** [nicobravom123@gmail.com](mailto:nicobravom123@gmail.com)
-<!--
+
 ---
 ## 📊 Estadísticas de GitHub
-
+<!--
 <div align="center">
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=angelnbm&layout=compact&theme=tokyonight&hide_border=true)    ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=angelnbm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
@@ -72,4 +65,4 @@ Aquí algunos de los proyectos académicos en los que he participado como Progra
 </div>
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=angelnbm)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=angelnbm&theme=dark&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
