@@ -4,10 +4,6 @@
 
 Soy un estudiante apasionado por el desarrollo de software y las telecomunicaciones de la **Universidad de Talca**. Me caracterizo por ser una persona resiliente y proactiva, siempre buscando adquirir nuevas habilidades para aportar soluciones innovadoras.
 
-🌱 **Sobre mí:**
-- 💡 Me motiva el aprendizaje continuo y la superación personal.
-- 🚒 **Dato curioso:** He sido **Bombero por 5 años** (incluyendo 2 años como Secretario de compañía), lo que me ha enseñado el valor del trabajo en equipo y la resolución de problemas bajo presión.
-
 🦾**Fortalezas**
 - Resiliencia
 - Adaptante
@@ -16,7 +12,6 @@ Soy un estudiante apasionado por el desarrollo de software y las telecomunicacio
 - Trabajo en equipo
 - Creatividad e innovación
 ---
-
 ## 🛠️ Stack Técnico
 
 Estas son algunas de las tecnologías y herramientas con las que he trabajado:
@@ -66,7 +61,7 @@ Aquí algunos de los proyectos académicos en los que he participado como Progra
 
 - 💼 **LinkedIn:** [Angel Bravo Muñoz](https://www.linkedin.com/in/angel-bravo-muñoz-066449325/)
 - 📧 **Email:** [nicobravom123@gmail.com](mailto:nicobravom123@gmail.com)
-
+<!--
 ---
 ## 📊 Estadísticas de GitHub
 
@@ -75,3 +70,4 @@ Aquí algunos de los proyectos académicos en los que he participado como Progra
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=angelnbm&layout=compact&theme=tokyonight&hide_border=true)    ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=angelnbm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 </div>
+-->
